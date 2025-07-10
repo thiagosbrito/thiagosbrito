@@ -11,7 +11,7 @@ Passionate about design, UX and good quality code
 *   🚀  I'm currently working on [Apptio - An IBM Company](http://apptio.com)
 *   🧠  I'm learning ReactNative, NextJs
 *   🤝  I'm open to collaborating on All kind of Front-End project
-*   ⚡  I love design, graffiti, music, cooking and specially my wife and daughters
+*   ⚡  I love design, graffiti, music, cooking and specially for my wife and kids
 
 <a href="https://www.x.com/brito_dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/brito_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.twitch.tv/brito_dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/brito_dev?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
