@@ -8,7 +8,7 @@ Passionate about design, UX and good quality code
 
 *   🌍  I'm based in Krakow - Poland
 *   ✉️  You can contact me at [thiago83brito@hotmail.com](mailto:thiago83brito@hotmail.com)
-*   🚀  I'm currently working on [Papernest](http://papernest.com)
+*   🚀  I'm currently working on [Apptio - An IBM Company](http://apptio.com)
 *   🧠  I'm learning ReactNative, NextJs
 *   🤝  I'm open to collaborating on All kind of Front-End project
 *   ⚡  I love design, graffiti, music, cooking and specially my wife and daughters
